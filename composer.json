@@ -1,7 +1,7 @@
 {
   "name": "hindy/logger",
   "homepage": "https://github.com/hashstudio/Mindy_Logger",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "library",
   "license": "MIT",
   "autoload": {
@@ -13,7 +13,6 @@
     "php": ">=5.4",
     "hindy/helper": "0.*",
     "monolog/monolog": "1.*",
-    "raven/raven": "0.9.*",
     "bramus/monolog-colored-line-formatter": "^2.0"
   },
   "require-dev": {
